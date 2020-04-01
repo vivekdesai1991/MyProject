@@ -47,6 +47,8 @@ object BehavesLikeHumanSyntax {
       println(s"hi")
 	  println(s"hi1")
 	  println(s"hi2")
+	  println(s"hi5")
+	  println(s"hi6")
     }
   }
 }
